@@ -39,7 +39,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/manishsaraan/email-validator.git"
+    "url": "http://github.com/shaqrivera/email-validator.git"
   },
   "devDependencies": {
     "chai": "4.3.7",
